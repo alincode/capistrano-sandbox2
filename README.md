@@ -1,1 +1,5 @@
 # capistrano-sandbox
+
+```
+touch Gemfile
+```
